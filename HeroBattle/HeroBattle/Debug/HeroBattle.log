@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Academy homework\С++2\HeroBattle\HeroBattle\main.cpp(434,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  HeroBattle.vcxproj -> D:\Academy homework\С++2\HeroBattle\Debug\HeroBattle.exe

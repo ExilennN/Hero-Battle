@@ -1,0 +1,31 @@
+
+		TURN 1
+Player: Shield Actived
+Player: Blocked and got damage [ 0 ]
+Computer: Got Counter Strike and start bleeding [ 3 ]
+Computer: Got damage [ 4 ]
+Computer: Bleeding [ 1 ]
+Player: Got Counter Strike and start bleeding [ 3 ]
+Player: Got damage [ 4 ]
+Player: Bleeding [ 1 ]
+Computer: Bleeding [ 1 ]
+Computer: Got damage [ 4 ]
+Player: Bleeding [ 1 ]
+Computer: Bleeding [ 1 ]
+Player: Got damage [ 4 ]
+Player: Bleeding [ 1 ]
+Computer: Bleeding [ 1 ]
+Computer: Got damage [ 4 ]
+Player: Bleeding [ 1 ]
+Computer: Bleeding [ 1 ]
+Computer: Healed 3 HP
+
+		TURN 2
+Player: Bleeding [ 1 ]
+Computer: Bleeding [ 1 ]
+Computer: Got damage [ 4 ]
+Player: Bleeding [ 1 ]
+Computer: Bleeding [ 1 ]
+
+
+		PLAYER WINS 
